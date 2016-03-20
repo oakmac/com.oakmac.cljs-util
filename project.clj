@@ -1,4 +1,4 @@
-(defproject com.oakmac/util "2.0.0"
+(defproject com.oakmac/util "2.0.1"
 
   :description "A small library of ClojureScript utility functions."
   :url "https://github.com/oakmac/cljs-util"
