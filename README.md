@@ -1,4 +1,4 @@
-# cljs-util
+# cljs-util [![Clojars Project](https://img.shields.io/clojars/v/com.oakmac/util.svg)](https://clojars.org/com.oakmac/util)
 
 A small library of utility functions for ClojureScript projects.
 
@@ -8,6 +8,14 @@ In nearly every ClojureScript project I work on there tends to be a `util.cljs`
 file containing helper functions that do not exist in the core library. This
 library is an attempt to create a completely generic version of that file to be
 used in any project.
+
+## Install
+
+Add the following to your `project.clj` `:dependencies` vector:
+
+```
+[com.oakmac/util "1.0.0"]
+```
 
 ## Notes
 

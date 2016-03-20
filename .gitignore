@@ -1,2 +1,7 @@
-# ignore diff files
+# diff files
 *.diff
+
+# Leiningen deploy noise
+pom.xml
+pom.xml.asc
+target/
