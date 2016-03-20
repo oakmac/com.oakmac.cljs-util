@@ -1,4 +1,4 @@
-(ns com.oakmac.util
+(ns oakmac.util
   "A collection of utility functions."
   (:require
     [goog.dom :as gdom]))
