@@ -14,7 +14,7 @@ used in any project.
 Add the following to your `project.clj` `:dependencies` vector:
 
 ```
-[com.oakmac/util "2.0.1"]
+[com.oakmac/util "3.0.0"]
 ```
 
 ## Notes

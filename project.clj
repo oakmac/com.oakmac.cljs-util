@@ -1,4 +1,4 @@
-(defproject com.oakmac/util "2.0.1"
+(defproject com.oakmac/util "3.0.0"
 
   :description "A small library of ClojureScript utility functions."
   :url "https://github.com/oakmac/cljs-util"
@@ -8,4 +8,5 @@
             :distribution :repo}
 
   :dependencies [[org.clojure/clojure "1.8.0" :scope "provided"]
-                 [org.clojure/clojurescript "1.7.228" :scope "provided"]])
+                 [org.clojure/clojurescript "1.7.228" :scope "provided"]
+                 [com.cognitect/transit-cljs "0.8.237"]])
