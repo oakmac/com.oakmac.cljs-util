@@ -70,7 +70,8 @@
 (defn fetch-json-as-clj
   "Makes an AJAX request to an HTTP GET endpoint expecting JSON.
    Parses JSON into CLJS using transit.cljs and keywordizes map keys.
-   transit.cljs is faster than using js->clj: http://tinyurl.com/ntgxyt8"
+   transit.cljs is faster than using js->clj:
+   http://swannodette.github.io/2014/07/26/transit-clojurescript"
   ([url success-fn]
    (fetch-json-as-clj url success-fn always-nil))
   ([url success-fn error-fn]
