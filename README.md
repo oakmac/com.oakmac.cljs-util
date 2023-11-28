@@ -1,4 +1,4 @@
-# com.oakmac.cljs-util
+# com.oakmac.cljs-util [![CI Status](https://github.com/oakmac/com.oakmac.cljs-util/actions/workflows/ci.yaml/badge.svg)](https://github.com/oakmac/com.oakmac.cljs-util/actions/workflows/ci.yaml) [![Clojars Project](https://img.shields.io/clojars/v/com.oakmac/cljs-util.svg)](https://clojars.org/com.oakmac/cljs-util)
 
 A small library of utility functions for ClojureScript projects.
 
