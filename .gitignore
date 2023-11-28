@@ -1,7 +1,6 @@
-# diff files
-*.diff
-
-# Leiningen deploy noise
+.clj-kondo/
+.lsp
+target/
 pom.xml
 pom.xml.asc
-target/
+*.diff
