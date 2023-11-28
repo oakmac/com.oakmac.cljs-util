@@ -5,4 +5,5 @@
             :url "https://github.com/oakmac/com.oakmac.cljs-util/blob/master/LICENSE.md"
             :distribution :repo}
   :source-paths ["src-cljs/"]
-  :dependencies [])
+  :dependencies [[org.clojure/clojure "1.11.1"]
+                 [org.clojure/clojurescript "1.11.60"]])
