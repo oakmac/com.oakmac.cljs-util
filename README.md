@@ -14,7 +14,7 @@ This library is an attempt to create a generic version of these functions.
 Add the following to your `project.clj` `:dependencies` vector:
 
 ```
-[com.oakmac/cljs-util "4.0.0"]
+[com.oakmac/cljs-util "5.0.0"]
 ```
 
 ## Notes
