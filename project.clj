@@ -1,4 +1,4 @@
-(defproject com.oakmac/cljs-util "4.0.0"
+(defproject com.oakmac/cljs-util "5.0.0"
   :description "a small library of ClojureScript utility functions"
   :url "https://github.com/oakmac/com.oakmac.cljs-util"
   :license {:name "ISC License"
